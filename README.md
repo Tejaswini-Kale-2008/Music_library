@@ -6,29 +6,29 @@ A **full-stack music management system** where users can add, view, update, and 
 
 ## 🔑 Key Features
 
-- 🎶 Add new music (title, artist, album, year)
-- 🧾 View the complete music list
-- ✏️ Edit and update existing music entries
-- ❌ Delete unwanted records
-- 🌐 REST API accessible via Postman or frontend
-- 🔁 Live refresh after every operation
+-  Add new music (title, artist, album, year)
+-  View the complete music list
+-  Edit and update existing music entries
+-  Delete unwanted records
+-  REST API accessible via Postman or frontend
+-  Live refresh after every operation
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
-### 💻 Backend:
+### Backend:
 - Java 17+
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
 
-### 🌐 Frontend:
+### Frontend:
 - HTML
 - CSS
 - JavaScript (Vanilla)
 
-### 🧪 Tools:
+### Tools:
 - Postman (API Testing)
 - VS Code (IDE)
 - Python SimpleHTTPServer (for local frontend)
@@ -63,7 +63,7 @@ Before you begin, make sure you have the following installed:
 
 ---
 
-## 📞 Contact
+## Contact
 
 *  **Developer**: Tejaswini Kale
 *  **Email**: kaletejaswini36@gmail.com
