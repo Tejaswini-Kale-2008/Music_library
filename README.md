@@ -26,7 +26,7 @@ A **full-stack music management system** where users can add, view, update, and 
 ### Frontend:
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript
 
 ### Tools:
 - Postman (API Testing)
