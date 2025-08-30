@@ -57,7 +57,6 @@ Before you begin, make sure you have the following installed:
 - ✅ Java 17 or higher
 - ✅ Maven (or use `./mvnw`)
 - ✅ PostgreSQL (with a database named `music`)
-- ✅ Python 3 (for serving frontend via HTTP)
 - ✅ A browser like Chrome or Firefox
 - ✅ Postman (optional, for testing APIs manually)
 
